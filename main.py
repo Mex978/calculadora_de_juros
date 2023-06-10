@@ -4,8 +4,8 @@ ANO = 12
 PERCENTUAL = 1 / 100
 CABECALHO = ["Mês", "Juros", "Total Investido", "Total Juros", "Montante"]
 
-VALOR_INICIAL = 4000  # Valor incial. Ex: 500
-VALOR_MENSAL = 1000  # Valor para depósito mensal. Ex: 100
+VALOR_INICIAL = 500  # Valor incial. Ex: 500
+VALOR_MENSAL = 100  # Valor para depósito mensal. Ex: 100
 ANOS = 10  # Quantidade de anos. Ex: 10
 TAXA_ANUAL = 10  # Valor da taxa anual. Ex: 10 -> 10%
 
